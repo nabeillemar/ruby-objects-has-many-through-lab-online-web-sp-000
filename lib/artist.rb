@@ -23,6 +23,10 @@ def new_song(name, genre)
   end
   
 
-  
+  def genres 
+    songs.map do |song|
+      song.genre
+    end 
+  end 
   
 end 
