@@ -1,4 +1,6 @@
 class Patient
   
+  def 
+  
   
 end 
