@@ -12,7 +12,7 @@ class Artist
     @@all
   end 
   
-  =begin
+=begin
   
   def songs 
     @@all.select do |song|
@@ -20,7 +20,7 @@ class Artist
     end 
   end 
   
-  =end
+=end
   
   
 end 
