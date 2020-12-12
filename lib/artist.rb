@@ -12,18 +12,13 @@ class Artist
     @@all
   end 
   
-  
-  
-  
-=begin
-  
   def songs 
     @@all.select do |song|
-      song.collect == self 
+      song.artist == self 
     end 
   end 
   
-=end
+
   
   
 end 
