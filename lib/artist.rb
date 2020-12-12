@@ -12,6 +12,9 @@ class Artist
     @@all
   end 
   
+  
+  
+  
 =begin
   
   def songs 
