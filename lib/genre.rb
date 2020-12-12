@@ -12,3 +12,4 @@ class Genre
     @@all
   end 
   
+end 
